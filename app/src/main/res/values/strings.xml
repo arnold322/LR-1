@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ЛР 1</string>
+    <string name="student_name">Мусатов Тимофей</string>
+    <string name="student_group">Т-433901-ИСТ</string>
+    <string name="hide_texts">Скрыть надписи</string>
+    <string name="show_texts">Показать надписи</string>
+    <string name="center_image">Бабочка</string>
+    <string name="toggle_image">Скрыть или показать картинку</string>
+</resources>
